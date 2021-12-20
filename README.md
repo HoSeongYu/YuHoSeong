@@ -1,23 +1,23 @@
 ## About Me (Yu Ho Seong, 기록하는 개발자)
 
----
+
 
 - (2011.03 ~ 2017.02) Graduated from the Department of  Mechanical and Automotive Engineering at Inje University
 - (2021.06 ~ 2021.12) Completion of Java Framework-Base Full Stack Development Course at Dongsung Professional Academy
 
 ## Contact me
----
+
 email : ghtjd026@gamil.com  
 blog : https://hsyu.tistory.com  
 resume : https://www.notion.so/Hsyu-860c4bd66dee456bbc4810aa6a20c51c  
 
 ## Project
----
+
 - [DS travel](http://ibyeong.shop/)
   
   
 ## Languages, Framework, Tools... My Skills
----
+
 ### Main
 <p align="left">
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNYxLk%2Fbtq4f1tSZjC%2F4eUiDnQRkFdz3ACVfinJr1%2Fimg.png" width="100">
