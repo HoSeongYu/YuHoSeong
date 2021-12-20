@@ -9,7 +9,7 @@
 
 email : ghtjd026@gamil.com  
 blog : https://hsyu.tistory.com  
-resume : https://www.notion.so/Hsyu-860c4bd66dee456bbc4810aa6a20c51c  
+resume : https://www.notion.so/16734cefc9064e38a979db063face84d  
 
 ## Project
 
