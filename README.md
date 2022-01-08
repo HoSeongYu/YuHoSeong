@@ -23,6 +23,8 @@ resume : https://www.notion.so/16734cefc9064e38a979db063face84d
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNYxLk%2Fbtq4f1tSZjC%2F4eUiDnQRkFdz3ACVfinJr1%2Fimg.png" width="70">
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOE0Jq%2FbtqKZnwM71Y%2FGi1RUMrDoyKW6cAjVMkkv1%2Fimg.png" width="70">
 <img src="https://media.vlpt.us/images/dainni/post/2214cf8b-57b6-42dd-8aa3-26f4ee4fd54f/Oracle-Logo.png" width="70">
+<img src="https://media.vlpt.us/images/wavvy1022/post/d05e49ea-341a-4e6a-80db-ff322533464a/jpa.png" width="70">
+<img src="https://t1.daumcdn.net/cfile/tistory/99D808505BBF3D4417" width="70">
 
 ### Tools
 <p align="left">
