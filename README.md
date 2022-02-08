@@ -28,6 +28,7 @@ resume : https://planet-freon-06b.notion.site/16734cefc9064e38a979db063face84d
 
 ### Tools
 <p align="left">
+<img src="https://blog.kakaocdn.net/dn/bRwluk/btq2uVWsk2i/Tq0jqnTHysYD2eY0EpbCJ0/img.png" width="70">
 <img src="https://media.vlpt.us/images/unihit/post/7aaeb335-5524-48f3-8e36-b324ad2bcaea/vscode%20image.png" width="70">
 <img src="https://media.vlpt.us/images/c-on/post/fa111f29-20c1-43c8-890b-ba15be5ae1da/%EA%B9%83%ED%97%88%EB%B8%8C.png" width="70">
 
