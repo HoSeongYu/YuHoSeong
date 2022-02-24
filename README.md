@@ -13,6 +13,7 @@ resume : https://planet-freon-06b.notion.site/16734cefc9064e38a979db063face84d
 
 ## Project
 
+- [PCR 검사 병원 조회 서비스](http://44.193.148.87/)
 - [DS travel](http://ibyeong.shop/)
   
   
