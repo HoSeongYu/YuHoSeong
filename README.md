@@ -7,8 +7,9 @@
 
 ## Contact me
 
-email : ghtjd026@gamil.com    
-resume : https://yuhoseong.github.io/Portfolio/
+- email : ghtjd026@gamil.com
+- portfolio : https://yuhoseong.github.io/Portfolio/
+- 자기소개서 : https://planet-freon-06b.notion.site/_-3384beb616e040f78ae15cb7cf84e827
 
 ## Project
 
