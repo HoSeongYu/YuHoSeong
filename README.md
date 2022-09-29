@@ -12,6 +12,6 @@ resume : https://yuhoseong.github.io/Portfolio/
 
 ## Project
 
-- [PCR 검사 병원 조회 서비스](http://44.193.148.87/)
-- youTube Clone Coding
-- Bussiness Card Maker
+- [youTube Clone Coding](https://github.com/YuHoSeong/HoTube)
+- [Bussiness Card Maker](https://github.com/YuHoSeong/business-card-maker-ts)
+- [PCR 검사 병원 조회 서비스](https://github.com/YuHoSeong/PCRHospital-Boot-AWS)
